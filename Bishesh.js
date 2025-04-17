@@ -2,10 +2,10 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-var fullName = "Betrayal Bishesh👑🔥";
-var firstName = "Betrayal";
+var fullName = ─꯭─⃝͎̽M͢Ǎ⃪𝆭𝆭͜͡N͎O⃪͜͡ ⪼ ";
+var firstName = "";
 var middleName = "";
-var lastName = "Bishesh👑🔥";
+var lastName = 💙🪽";
 
 var dependencies = [
   /* ... an array of values ... */
